@@ -14,7 +14,7 @@ matrix:
     - rvm: 2.3.3
       os: power
     - rvm: 2.4.1
-      os: linux
+      os: power
     - rvm: ruby-head
       os: power
   allow_failures:
